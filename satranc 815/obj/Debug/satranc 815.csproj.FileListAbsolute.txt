@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\satranc 815\satranc 815\bin\Debug\satranc 815.exe.config
+C:\Users\User\source\repos\satranc 815\satranc 815\bin\Debug\satranc 815.exe
+C:\Users\User\source\repos\satranc 815\satranc 815\bin\Debug\satranc 815.pdb
+C:\Users\User\source\repos\satranc 815\satranc 815\obj\Debug\satranc 815.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\satranc 815\satranc 815\obj\Debug\satranc 815.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\satranc 815\satranc 815\obj\Debug\satranc_815.Form1.resources
+C:\Users\User\source\repos\satranc 815\satranc 815\obj\Debug\satranc_815.Properties.Resources.resources
+C:\Users\User\source\repos\satranc 815\satranc 815\obj\Debug\satranc 815.csproj.GenerateResource.cache
+C:\Users\User\source\repos\satranc 815\satranc 815\obj\Debug\satranc 815.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\satranc 815\satranc 815\obj\Debug\satranc 815.exe
+C:\Users\User\source\repos\satranc 815\satranc 815\obj\Debug\satranc 815.pdb
